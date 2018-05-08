@@ -1,0 +1,14 @@
+{
+  "id": "googledrive",
+  "name": "Google Drive",
+  "version": "1.0",
+  "description": "Google Drive",
+  "main": "index.js",
+  "author": "Kabeer Vohra",
+  "license": "MIT",
+  "repository": "https://github.com/kabeersvohra/google-drive-franz",
+  "config": {
+    "serviceURL": "https://drive.google.com/"
+  }
+}
+
